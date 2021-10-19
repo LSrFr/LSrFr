@@ -1,4 +1,14 @@
-### Hi there 👋
+- 👋 Hi, I’m @LSrFr
+- 👀 I’m interested in Games, Tech, Astronomy and Coding.
+- 🌱 I’m currently learning Front-End Development.
+- 💞️ I’m looking to collaborate on projects that i can learn from.
+- 📫 How to reach me: By my e-mail - lucas.soaresfr@outlook.com
+
+<!---
+LSrFr/LSrFr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 <!--
 **LSrFr/LSrFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
